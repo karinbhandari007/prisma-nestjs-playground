@@ -59,5 +59,3 @@ Your task is to implement the following features:
 1. Integrate Swagger for API documentation and testing.
 2. Explore GraphQL integration if not done already.
 3. Add comprehensive test cases to ensure the functionality of your application.
-
-This task is designed to test your understanding of NestJS and Prisma, especially in handling various relationships and implementing different features. Good luck on your learning journey!
